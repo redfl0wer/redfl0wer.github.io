@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air"  # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "redfl0wer 개발블로그"
+title                    : "redfl0wer's 개발블로그"
 title_separator          : "|"
 subtitle                 : "매일 조금씩 성장하는 하루"
 name                     : "redfl0wer"
